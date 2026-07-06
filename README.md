@@ -1,5 +1,5 @@
 # Udemy-Clone-Website
-Udemy Clone Website    This is a front-end Udemy Clone Website built using HTML5 and CSS3. 
+  This is a front-end Udemy Clone Website built using HTML5 and CSS3. 
 Udemy Clone Website.It recreates the basic layout and design of the Udemy platform, including a navigation bar, search bar, course categories, featured courses, and footer.
 
 Features
